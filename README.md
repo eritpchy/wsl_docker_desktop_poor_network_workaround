@@ -1,0 +1,1 @@
+# wsl_docker_desktop_poor_network_workaround
